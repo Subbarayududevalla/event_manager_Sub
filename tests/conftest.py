@@ -259,5 +259,14 @@ def user_response_data():
     }
 
 @pytest.fixture
-def login_request_data():
-    return {"username": "john_doe_123", "password": "SecurePassword123!"}
+async def manager_user(db_session: AsyncSession):
+    user = User(
+        username="manager_user",
+        email="manager_user@example.com",
+        hashed_password="securepassword",
+        role=UserRole.MANAGER,
+        is_locked=False,
+    )
+    db_session.add(user)
+    await db_session.commit()
+    return user
