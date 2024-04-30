@@ -1,10 +1,10 @@
 # Links to closed issues:
-[Issue One](https://github.com/#/event_manager/issues/1)
-[Issue Two](https://github.com/#/event_manager/issues/5)
-[Issue Three](https://github.com/#/event_manager/issues/7)
-[Issue Four](https://github.com/#/event_manager/issues/9)
-[Issue Five](https://github.com/#/event_manager/issues/11)
-[Issue from Instructor Video](https://github.com/#/event_manager/issues/3)
+[Issue One](https://github.com/Subbarayududevalla/event_manager_Sub/issues/1)
+[Issue Two](https://github.com/Subbarayududevalla/event_manager_Sub/issues/2)
+[Issue Three](https://github.com/Subbarayududevalla/event_manager_Sub/issues/3)
+[Issue Four](https://github.com/Subbarayududevalla/event_manager_Sub/issues/4)
+[Issue Five](https://github.com/Subbarayududevalla/event_manager_Sub/issues/5)
+[Issue from Instructor Video](3)
 
   - Updated `readme.md`.
 - Changed image name.
